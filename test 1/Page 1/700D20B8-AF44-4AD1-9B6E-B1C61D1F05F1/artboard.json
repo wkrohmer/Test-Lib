@@ -45,6 +45,10 @@
     {
       "class": "shapeGroup",
       "id": "FD9AC790-2365-4B9E-BB4E-84B6D5073614"
+    },
+    {
+      "class": "text",
+      "id": "0DD0E958-639E-43A2-8180-A62AB64C389F"
     }
   ],
   "name": "Artboard",
